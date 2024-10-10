@@ -19,12 +19,12 @@ Este projeto é uma calculadora simples implementada em Python. Ele suporta as q
    ```
 
 2. ```bash
-    cd calculadora
-    ```
+   cd calculadora
+   ```
 
 3. ```bash
-    python calculator.py
-    ```
+   python calculator.py
+   ```
 
 ## Exemplos de Uso
 
